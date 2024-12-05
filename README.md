@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrujan0275&label=Profile%20views&color=0e75b6&style=flat" alt="shrujan0275" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrujan0275" alt="shrujan0275" /></a> </p>
-
 - 🔭 I’m currently working on **VLSI | Analog Design | Digital Design**
 
 - 🌱 I’m currently learning **CMOS VLSI Design | Analog Design | Verilog**

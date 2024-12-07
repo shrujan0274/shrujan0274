@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrujan Karthik V</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
-
+<a href="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480" target="_blank" rel="noreferrer"> 
+    <img src="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480"  width="90%" height="350"/> 
+</a> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshrujan0274%2Fshrujan0274ni%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%232c3e50&countColor=%23ecf0f1&style=default&labelStyle=none)
 
 - 🔭 I’m currently working on **VLSI | Analog Design | Digital Design** 

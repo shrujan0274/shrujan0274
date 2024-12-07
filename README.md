@@ -73,7 +73,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrujan0274&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrujan0274&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width ="1010"alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrujan0274&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width =90% alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrujan0274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 

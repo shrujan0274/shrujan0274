@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shrujan Karthik V</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrujan0275&label=Profile%20views&color=0e75b6&style=flat" alt="shrujan0275" /> </p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshrujan0274%2Fshrujan0274ni%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
 
 - 🔭 I’m currently working on **VLSI | Analog Design | Digital Design**
 

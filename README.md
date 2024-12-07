@@ -66,7 +66,7 @@
 ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrujan0274&theme=vision-friendly-dark&card_width=1010)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shrujan0274&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)](https://github.com/shrujan0274/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrujan0274&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 

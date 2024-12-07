@@ -73,5 +73,5 @@
 
 
 # Contact
-Work : shrujankarthik.v2023ece@sece.ac.in
+Work : shrujankarthik.v2023ece@sece.ac.in <br>
 Personal : shrujanemerging@gmail.com

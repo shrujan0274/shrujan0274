@@ -70,3 +70,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrujan0274&theme=dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrujan0274&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+# Contact
+Work : shrujankarthik.v2023ece@sece.ac.in
+Personal : shrujanemerging@gmail.com

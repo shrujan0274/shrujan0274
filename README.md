@@ -1,10 +1,7 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Shrujan Karthik V</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshrujan0274%2Fshrujan0274ni%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshrujan0274%2Fshrujan0274ni%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%232c3e50&countColor=%23ecf0f1&style=default&labelStyle=none)
 
 - 🔭 I’m currently working on **VLSI | Analog Design | Digital Design** 
 
@@ -64,14 +61,8 @@
  
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrujan0274&theme=vision-friendly-dark&card_width=1010)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrujan0274&theme=dark&card_width=1010)](https://git.io/streak-stats)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrujan0274&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrujan0274&theme=dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrujan0274&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-###
-
-###

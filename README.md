@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrujan Karthik V</h1>
-<h3 align="center">A passionate Electronics Engineer from India</h3>
+<h3 align="center">A passionate Electronics Engineer from India</h3><center>
 <a href="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480" target="_blank" rel="noreferrer"> 
     <img src="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480"  width="90%" height="350" aling="center"/> 
-</a> 
+</a> </center>
 <br>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshrujan0274%2Fshrujan0274%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)

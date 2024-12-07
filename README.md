@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrujan Karthik V</h1>
-<h3 align="center">A passionate Electronics Engineer from India</h3><center>
+<h3 align="center">A passionate Electronics and Communication Engineer from India</h3><center>
 <a href="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480" target="_blank" rel="noreferrer"> 
     <img src="https://www.shutterstock.com/shutterstock/videos/22396021/thumb/1.jpg?ip=x480"  width="99%" height="350" aling="center"/> 
 </a> </center>
